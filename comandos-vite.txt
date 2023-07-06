@@ -1,0 +1,11 @@
+//PARA VITE//
+
+--Iniciar proyecto
+npm create proyecto
+
+
+--Traer dependencias
+npm intall
+
+--Iniciar server
+npm run dev
